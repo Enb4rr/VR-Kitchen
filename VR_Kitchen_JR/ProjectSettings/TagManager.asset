@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fluid
   - Glass
+  - Snapable
   layers:
   - Default
   - TransparentFX
